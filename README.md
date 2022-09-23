@@ -32,6 +32,7 @@ You can view my Dashboard on my Tableau Public Profile link -https://public.tabl
 
 
 Results
+
 1)I observed that from 2012 to 2021 total no of complaints filed are 75,513, out of 75,513 total response which are in progress is 283.
 2) Disputed complaints are 7,363.
 3) Maximum complaint are submitted via web approx. 40k. 
@@ -40,7 +41,9 @@ Results
 
 References
 •	Dataset link- https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Financial+Consumer+Complaints.csv
+
 •	Tableau Public Dashboard Link- https://public.tableau.com/app/profile/vijaya.rana/viz/FinancialComplaintsDashboard_16634716478980/FC
+
 •	Inspiration - https://public.tableau.com/app/profile/gandes.goldestan
 
 
